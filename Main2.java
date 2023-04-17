@@ -3,11 +3,11 @@ public class Main {
 
 
         System.out.println("----------------------------------");
-		System.out.println("procesando............");
+		System.out.println("Computando....");
         Fibonacci f = new Fibonacci();
         System.out.println(f.posicionFibonacci(2,5));
         System.out.println(f.jp(2));
 
-	System.out.println("estoy dentrooooooooooooo");
+	System.out.println("Fin de programa");
     }
 }
