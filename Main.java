@@ -3,7 +3,7 @@
 
 
         System.out.println("----------------------------------");
-		System.out.println("Computando.... ");
+		System.out.println("Computando....");
         Fibonacci f = new Fibonacci();
         System.out.println(f.posicionFibonacci(2,5));
         System.out.println(f.jp(2));
